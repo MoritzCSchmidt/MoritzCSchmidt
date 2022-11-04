@@ -24,7 +24,9 @@ studies <br>
 ----
 
 <p align="center" style="font-family:'Courier New'">
-:computer: techstack 
+:computer: <br>
+techstack <br>
+
 </p>
 <div align="center">
 <code>
