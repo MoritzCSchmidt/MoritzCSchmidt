@@ -1,6 +1,5 @@
-## Heyo :wave:
+## Hello :wave:
 
-----
 
 <p align="center" style="font-family:'Courier New'">
     I'm Moritz, a senior software developer currently working at <a href="http://openvalue.eu/">OpenValue</a> with a main forcus on Java.
@@ -12,7 +11,7 @@ I'm into riding motorcycles :motorcycle: , practicing brazilian jiu jitsu :marti
 
 <p align="center" style="font-family:'Courier New'">
 :school: <br>
-studies: <br>
+studies <br>
 
 </p>
 <ul style="font-family:'Courier New'">
