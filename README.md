@@ -15,7 +15,7 @@ studies <br>
 
 </p>
 <ul style="font-family:'Courier New'">
-<li>(ongoing, just out of perosnal interest) master program in Business Law @ HFH
+<li>(ongoing, just out of personal interest) master program in Business Law @ HFH
 <li>master's degree in Informatics (Wirtschaftsinformatik) from University of Duisburg-Essen</li>
 <li>studied abroad for a semester at Högskolan i Borås in sweden. </li>
 <li>certified software developer (IHK Fachinformatiker Anwendungsentwicklung)</li>
