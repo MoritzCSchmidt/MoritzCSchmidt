@@ -2,8 +2,8 @@
 
 
 <p align="center" style="font-family:'Courier New'">
-    I'm Moritz, a senior software developer currently working at <a href="http://openvalue.eu/">OpenValue</a> with a main forcus on Java.
-I'm passionate about finding the right solution for specific problems and learning on the path there.
+    I'm Moritz, a senior software developer with a main forcus on Java, currently working at <a href="http://openvalue.eu/">OpenValue</a>.
+I am passionate about finding the right solution for specific problems and learning on the path there and dedicated to developing solutions that matter, always keeping the business in mind. 
 I'm into riding motorcycles :motorcycle: , practicing brazilian jiu jitsu :martial_arts_uniform: and love being active and meeting new people!
 </p>
 
