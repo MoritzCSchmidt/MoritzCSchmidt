@@ -18,6 +18,7 @@ studies <br>
 <li>(ongoing) master program in Business Law @ HFH
 <li>master's degree in Informatics (Wirtschaftsinformatik) from University of Duisburg-Essen</li>
 <li>studied abroad for a semester at Högskolan i Borås in sweden. </li>
+<li>bachelor's degree in Informatics (Wirtschaftsinformatik) from University of Duisburg-Essen</li>
 <li>certified software developer (IHK Fachinformatiker Anwendungsentwicklung)</li>
 </ul>
 
