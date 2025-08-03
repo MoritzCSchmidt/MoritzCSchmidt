@@ -1,10 +1,15 @@
 ## Hello :wave:
 
 
-<p align="center" style="font-family:'Courier New'">
-    I'm Moritz, a senior software developer with a main forcus on Java, currently working at <a href="http://openvalue.eu/">OpenValue</a>.
-I am passionate about finding the right solution for specific problems and learning on the path there and dedicated to developing solutions that matter, always keeping the business in mind. 
-I'm into riding motorcycles :motorcycle: , practicing brazilian jiu jitsu :martial_arts_uniform: and love being active and meeting new people!
+<p align="center" style="font-family:'Courier New'">I'm Moritz, Head of MIGSuite and Data Migration at adesso insurance solutions – driven by the passion to create impactful solutions that bridge technology and business.
+	
+I focus on delivering seamless and efficient data migration processes, always striving for innovation and precision to meet the unique needs of every project.
+	
+I believe in solving the right problems and enjoy the process of learning, exploring, and collaborating to achieve meaningful results.
+
+When I’m not immersed in data and solutions, you’ll find me riding my motorcycle 🏍️, practicing Brazilian Jiu-Jitsu 🥋, or connecting with new people and perspectives.
+
+<b>Let’s make great things happen!</b>
 </p>
 
 ----
@@ -15,7 +20,6 @@ studies <br>
 
 </p>
 <ul style="font-family:'Courier New'">
-<li>(ongoing) master program in Business Law @ HFH
 <li>master's degree in Informatics (Wirtschaftsinformatik) from University of Duisburg-Essen</li>
 <li>studied abroad for a semester at Högskolan i Borås in sweden. </li>
 <li>bachelor's degree in Informatics (Wirtschaftsinformatik) from University of Duisburg-Essen</li>
